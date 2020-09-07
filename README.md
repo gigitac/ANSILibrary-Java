@@ -1,2 +1,3 @@
-# ANSILibrary-Java
-ANSI Code Library for Java.
+# ANSILibrary-Java [![DiscordServerSticker](https://img.shields.io/discord/745447009242316860?color=7289Da&label=Discord&style=for-the-badge&logo=discord)](https://discord.gg/6WuDCZh)[![Version Sticker](https://img.shields.io/badge/Version-v1.0.0-informational?style=for-the-badge&logo)](https://github.com/gigitac/bismarckEngine)[![ProgrammingLanguageSticker](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)](https://www.google.com/search?q=oracle+java&rlz=1C5CHFA_enCA913CA913&oq=oracle+java&aqs=chrome..69i57j0l7.2231j0j4&sourceid=chrome&ie=UTF-8)
+
+ANSI Formatting Library for Java.
